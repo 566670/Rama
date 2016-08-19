@@ -18,5 +18,6 @@ public void n()
 {
 	System.out.println("asasas");
 	System.out.println("asa");
+	System.out.println("DDAASD");
 }
 }
